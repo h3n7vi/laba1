@@ -1,0 +1,7 @@
+Z:\trpo prakt\SimpleClasssExample\SimpleClasssExample\obj\Debug\SimpleClasssExample.csprojResolveAssemblyReference.cache
+Z:\trpo prakt\SimpleClasssExample\SimpleClasssExample\obj\Debug\SimpleClasssExample.csproj.CoreCompileInputs.cache
+Z:\trpo prakt\SimpleClasssExample\SimpleClasssExample\bin\Debug\SimpleClasssExample.exe.config
+Z:\trpo prakt\SimpleClasssExample\SimpleClasssExample\bin\Debug\SimpleClasssExample.exe
+Z:\trpo prakt\SimpleClasssExample\SimpleClasssExample\bin\Debug\SimpleClasssExample.pdb
+Z:\trpo prakt\SimpleClasssExample\SimpleClasssExample\obj\Debug\SimpleClasssExample.exe
+Z:\trpo prakt\SimpleClasssExample\SimpleClasssExample\obj\Debug\SimpleClasssExample.pdb
